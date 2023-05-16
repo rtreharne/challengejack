@@ -6,5 +6,6 @@ This GitHub Repo will document the challenges presented to him by his stern but 
 
 ## Challenges
 
-+ [20230510_GIT_OR_DIE_TRYING](20230510_GIT_OR_DIE_TRYING/) Status: INCOMPLETE
++ [20230510_GIT_OR_DIE_TRYING](20230510_GIT_OR_DIE_TRYING/) Status: COMPLETE
++ [20230516_BATTLESHKPS](20230516_BATTLESHIPS/) Status: INCOMPLETE
 
